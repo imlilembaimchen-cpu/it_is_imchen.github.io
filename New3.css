@@ -1,0 +1,46 @@
+body {
+  background-color: #FFFDD0; /* Cream */
+  color: darkolivegreen;
+  font-family: fantasy;
+  display: flex;
+  justify-content: center;
+  padding: 40px 15px;
+  margin: 0;
+}
+
+.card {
+  background-color: #F5F2C1;
+  border: 2px solid darkolivegreen;
+  border-radius: 10px;
+  padding: 25px;
+  width: 100%;
+  max-width: 420px;
+}
+
+h1 {
+  margin: 0 0 6px 0;
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 20px;
+  margin: 18px 0 8px 0;
+}
+
+.tagline {
+  margin: 0;
+  font-size: 16px;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid darkolivegreen;
+  margin: 18px 0;
+}
+
+.friends-list {
+  list-style-type: square;
+  padding-left: 22px;
+  margin: 0;
+  line-height: 1.8;
+}/* CSS Document */
